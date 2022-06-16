@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(d40htdym8ttjc-&g@-p1%-+_vi1gj)lpx0+pwv=j2^)e73e4&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['blooming-sierra-19033.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
