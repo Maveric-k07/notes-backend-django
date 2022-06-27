@@ -13,5 +13,10 @@ This project includes:
 - All the **REST API** required to serve the notes from the mysql database that django provides.
 - Modularity, so that you can quickly change the views and functionalities that cater to your requirements.
 
+## About the project
+The [notes react app](https://github.com/Maveric-k07/notes-frontend) is a stand-alone front-end app that makes API calls to this **django** server deployed on **heroku** to render the notes and also GET, POST, DELETE, UPDATE notes on the go using the API endpoints.
+
+ 
+
 ## Credits 
 [Akhileshwar Gurram](https://github.com/Maveric-k07)
